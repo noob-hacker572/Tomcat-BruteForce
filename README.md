@@ -20,3 +20,8 @@ Not hold the author or contributors liable for any direct, indirect, or conseque
 ```bash
 python3 tcat_brute.py
 ```
+
+## Colon-Seperate Wordlist can be downloaded using below cmd.
+```bash
+wget https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Default-Credentials/tomcat-betterdefaultpasslist.txt
+```
